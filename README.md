@@ -1,6 +1,6 @@
 ## Endless Rain
 
-This script generates upt to four independent MIDI signal waves to constantly change your sound.
+This script generates up to four independent MIDI signal waves to constantly change your sound.
 
 ![preview](https://github.com/patryk-kawalarz/endless-rain/blob/main/preview.jfif?raw=true)
 
