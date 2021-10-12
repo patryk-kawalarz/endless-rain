@@ -18,3 +18,9 @@ You can do everything only using two encoders: second and third.
 - E2 - changes a parameter, one by one. 
 - E3 - changes parameter's value.
 Any wave starts when the Time parameter is higher than 0.
+
+### Download
+
+[v0.0.1](https://github.com/patryk-kawalarz/endless-rain/archive/refs/heads/main.zip)
+
+[GitHub](https://github.com/patryk-kawalarz/endless-rain)
