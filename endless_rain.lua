@@ -1,7 +1,7 @@
 -- Endless Rain
 -- 0.0.1 @sundrugs
--- llllllll.co/t/endlessrain
---
+-- llllllll.co/t/endless-rain
+-- 
 -- Four MIDI LFOs
 --
 -- E2 : Go to next param 
