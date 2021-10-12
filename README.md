@@ -6,11 +6,12 @@ This script generates upt to four independent MIDI signal waves to constantly ch
 
 It's very intriguing to hear how sounds are constantly changing. So I wanted to give a longer life to your tracks. With "Endless Rain" you can create up to four MIDI waves, with different range, speed and channel/cc. The actual moment in time of every wave is visualised. 
 
-I made this script in 6 hours and it was my first contact with Lua language, so I'm sure there are many things I could write better. 
+I made this script in 6 hours and it was my first contact with Lua language, so I'm sure there are many things I could write better. I based on [Changes](https://llllllll.co/t/changes/33799) code and idea.
 
 ### Requirements
 
-Norns, any device with MIDI input
+* Norns
+* any device with MIDI input
 
 ### Documentation
 
