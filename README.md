@@ -21,6 +21,6 @@ Any wave starts when the Time parameter is higher than 0.
 
 ### Download
 
-[v0.0.1](https://github.com/patryk-kawalarz/endless-rain/archive/refs/heads/main.zip)
+[v0.0.1](https://github.com/patryk-kawalarz/endless-rain/archive/refs/tags/0.0.1.zip)
 
 [GitHub](https://github.com/patryk-kawalarz/endless-rain)
