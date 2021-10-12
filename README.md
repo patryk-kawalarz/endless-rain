@@ -15,7 +15,7 @@ I made this script in 6 hours and it was my first contact with Lua language, so 
 
 ### Documentation
 
-You can do everything only using two encoders: second and third. 
+You can do everything only using two encoders. 
 - E2 - changes a parameter, one by one. 
 - E3 - changes parameter's value.
 Any wave starts when the Time parameter is higher than 0.
