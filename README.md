@@ -20,10 +20,6 @@ You can do everything only using two encoders.
 - E3 - changes parameter's value.
 Any wave starts when the Time parameter is higher than 0.
 
-### Download
-
-[v0.0.1](https://github.com/patryk-kawalarz/endless-rain/archive/refs/tags/0.0.1.zip)
-
-[GitHub](https://github.com/patryk-kawalarz/endless-rain)
+### Author
 
 Check out [my music](https://open.spotify.com/artist/1p58IpggGDYuUR0vi2X8Ch)
